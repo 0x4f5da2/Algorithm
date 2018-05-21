@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 // 是时候展现真正的技术了(手动斜眼)
-// 蜜汁PE，不管了
+// 蜜汁PE，不管了 
 int main(){
     int ans[3005];
     int vis[3005];
